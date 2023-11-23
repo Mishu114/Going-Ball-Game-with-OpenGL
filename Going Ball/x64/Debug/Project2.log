@@ -1,0 +1,641 @@
+﻿  main.cpp
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\sphere.h(177,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\sphere.h(178,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\sphere.h(180,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\cylinder.h(149,24): warning C4101: 'normalX': unreferenced local variable
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\cylinder.h(149,33): warning C4101: 'normalY': unreferenced local variable
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\cylinder.h(149,18): warning C4101: 'y': unreferenced local variable
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\cylinder.h(149,42): warning C4101: 'normalZ': unreferenced local variable
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\Sphere2.h(189,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\Sphere2.h(190,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\Sphere2.h(192,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\Sphere2.h(269,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\Sphere2.h(270,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\Sphere2.h(274,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\Sphere2.h(325,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\Sphere2.h(326,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\Sphere2.h(331,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\curve.h(144,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\curve.h(144,28): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\curve.h(147,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\curve.h(157,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\curve.h(163,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\curve.h(164,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(249,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(249,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(249,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(250,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(250,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(250,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(251,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(251,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(251,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(252,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(252,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(252,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(253,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(253,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(253,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(254,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(254,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(254,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(255,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(255,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(255,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(256,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(256,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(256,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(257,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(257,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(257,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(258,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(258,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(258,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(259,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(259,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(259,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(260,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(260,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(260,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(261,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(261,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(261,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(262,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(262,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(262,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(263,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(263,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(263,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(264,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(264,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(264,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(265,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(265,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(265,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(266,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(266,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(266,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(267,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(267,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(267,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(268,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(268,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(268,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(269,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(269,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(269,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(270,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(270,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(270,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(271,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(271,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(271,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(272,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(272,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(272,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(273,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(273,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(273,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(274,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(274,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(274,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(275,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(275,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(275,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(276,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(276,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(276,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(277,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(277,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(277,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(278,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(278,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(278,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(279,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(279,15): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(279,23): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(280,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(280,15): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(280,23): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(281,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(281,15): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(281,23): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(282,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(282,15): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(282,23): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(283,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(283,15): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(283,23): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(284,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(284,15): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(284,23): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(285,6): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(285,15): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(285,23): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(286,5): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(286,14): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(286,22): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(1312,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(1313,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(1314,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(1315,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(1319,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(1601,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(1851,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(1851,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(1929,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(1929,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(1929,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(1934,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(1934,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(1964,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(1964,57): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(1965,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(2016,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(2016,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(2016,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(2021,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(2021,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(2167,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(2274,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(2284,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(2284,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(2284,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(2588,26): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(2733,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(2736,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(2746,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(2752,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\main.cpp(2753,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+glfw3.lib(init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(input.obj)' or at ''; linking object as if no debug info
+glfw3.lib(context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_time.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_thread.obj)' or at ''; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(vulkan.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_joystick.obj)' or at ''; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(wgl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(egl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(osmesa_context.obj)' or at ''; linking object as if no debug info
+  Project2.vcxproj -> C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\x64\Debug\Project2.exe

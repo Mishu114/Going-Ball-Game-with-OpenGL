@@ -1,0 +1,13 @@
+magnet ( point will be attracted )
+
+Point will be shown in digits
+
+Fly for a moment
+
+roadside game (to earn extra coin)
+
+roadside shop (spent coin for extra life - drinking juice).
+
+tree light
+
+monitor, which will display a video

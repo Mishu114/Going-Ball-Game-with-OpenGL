@@ -1,0 +1,4 @@
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\x64\Debug\Project2.exe
+D:\Downloads\Project2 (3)\Project2\x64\Debug\Project2.exe
+D:\Downloads\Mishu\Project2\x64\Debug\Project2.exe
+C:\Users\User\Downloads\GraphicsProjects\Subway Surfer\x64\Debug\Project2.exe
